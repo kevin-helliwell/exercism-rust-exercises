@@ -1,3 +1,3 @@
 # exercism-rust-exercises
 
-Solutions to Rust exercises on Exercism as I complete them locally. 🙂
+Rust exercises from Exercism as I complete them locally. 🙂
